@@ -90,3 +90,13 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+telegram:
+  name: "Telegram"
+  baseURL: "https://www.t.me/"
+  icon: "fa-telegram"
+
+keybase:
+  name: "Keybase"
+  baseURL: "https://keybase.io/"
+  icon: "fa-lock"
