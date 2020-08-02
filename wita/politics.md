@@ -5,7 +5,7 @@ subtitle: Trigger warning I guess?
 tags: [wita, politics]
 ---
 
-**TLDR;** I distrust the people, policies, entities and process of United States politics and will no longer take part in the continued corruption of human life in the United States via our political system and it's members.
+**TLDR;** I distrust the people, policies, entities, and process of United States politics and will no longer take part in the continued corruption of human life in the United States via our political system and it's members.
 
 My history with politics can be summed up as:
 
