@@ -17,3 +17,7 @@ subtitle: Father, Friend, Hacker, Husband, Son.
 - I have grandchildren!
 - I was in the US Army.
 - I am **not** available for consulting.
+
+### Social Networks
+
+I am on most social networks as "Jeraimee". I am not linking to some social networks and may not be using some regularly or at all. Please contact me via text, Telegram or Email if you need to reach me sometime soon.
