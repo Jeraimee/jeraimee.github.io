@@ -21,8 +21,9 @@ description: Father, Friend, Hacker, Husband, Son.
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
-  WITA: "wita/"
-#  Resources:
+  W.I.T.A.: "wita/"
+
+  #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 
