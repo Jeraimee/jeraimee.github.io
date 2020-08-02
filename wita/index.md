@@ -9,7 +9,7 @@ This space will be an opinion and perspective dumping ground. This isn't a provi
 
 ### Topics
 * Sex
-* Religion
+* [Religion](/wita/religion/ "What I Think About: Religion")
 * [Politics](/wita/politics/ "What I Think About: Politics")
 * [Drugs](/wita/drugs/ "What I Think About: Drugs")
 * ...
