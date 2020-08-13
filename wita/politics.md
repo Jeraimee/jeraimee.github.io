@@ -33,6 +33,6 @@ This is when I learned not only how ignorant I was on many topics, but how ignor
 
 ### This Is All Bullshit
 
-So, here we are. As of this writing it's just past halfway to 2021 and I can say whole-heatedly that I believe every, single, politian is corrupt. I think the only - and I mean **only** - way to fix this system is to tear it down. This entire system is broken from the foundation up at this point. I believe we have corrupted the intent of the Declaration of Independence, the Constitution, and the Bill of Rights by our own perspective and greed so much over the last 200+ years that it is now beyond repair.
+So, here we are. As of this writing it's just past halfway to 2021 and I can say wholeheartedly that I believe every, single, politian is corrupt. I think the only - and I mean **only** - way to fix this system is to tear it down. This entire system is broken from the foundation up at this point. I believe we have corrupted the intent of the Declaration of Independence, the Constitution, and the Bill of Rights by our own perspective and greed so much over the last 200+ years that it is now beyond repair.
 
 I'll commit to updating this if my perspective is once-again modified.
