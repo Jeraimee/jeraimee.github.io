@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Echolalia
-subtitle: 
-tags: [personal, autism]
+subtitle: Echolalia
+tags: [personal, autism, echolalia, childhood]
 ---
 
 > Echolalia is the unsolicited repetition of vocalizations made by another person [...]. In its profound form it is automatic and effortless.
@@ -16,3 +16,5 @@ Welp, I then went through some conversations I've had as an adult and saw that t
 What ... the ... absolute ... fuck ...
 
 You people are weird. :)
+
+__Updated August 13th:__ It was driving me nuts that the subtitle of this post wasn't also "echolalia" so I had to pop back here and _fix_ it.
